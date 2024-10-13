@@ -9,4 +9,9 @@ apscheduler
 requests
 psutil
 pyromod
-pymongo[srv]
+Flask==1.1.2
+werkzeug==2.0.2
+gunicorn==20.1.0
+Jinja2==3.0.3
+itsdangerous==2.0.1
+pymongo[srv]==3.12.3
