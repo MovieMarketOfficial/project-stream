@@ -1,11 +1,9 @@
 pyrofork
 pyrogram
 tgcrypto<=1.2.3
-aiohttp
-motor
+aiohttp
 aiofiles
-dnspython
-apscheduler
+dnspython
 requests
 psutil
 
