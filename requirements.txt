@@ -1,18 +1,13 @@
 pyrofork
-pyrogram
+pyrogram<=2.0.33
 tgcrypto<=1.2.3
-aiohttp
-aiofiles
-dnspython
-requests
-
-jinja2
+aiohttp<=3.8.1
 python-dotenv<=0.20.0
+motor
+aiofiles
+dnspython
 apscheduler
-pyshorteners
+requests
 psutil
 pyromod
-colorama
-
 pymongo[srv]==3.12.3
-motor==2.5.1
